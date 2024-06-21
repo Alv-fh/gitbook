@@ -2,4 +2,6 @@
 
 * [Page](README.md)
 
-* [Write Ups](writeup.md)
+* [WriteUps](writeups/WriteUps.md)
+  * [Indice Vulnhub](writeups/vulnhub/vulnhub_index.md)
+    * [Fristileaks](writeups/vulnhub/fristileaks.md)
