@@ -3,7 +3,7 @@
 * [Whoami](README.md)
   
   * [Curriculum](writeups/curriculum.md)
-    * ![banner](images/BANNER-ALV-FH.png)
+* ![banner](images/BANNER-ALV-FH.png)
 
 
 
