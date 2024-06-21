@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
+* [Whoami](README.md)
+  
+  * [Curriculum](writeups/curriculum.md)
 
 * [WriteUps](writeups/WriteUps.md)
   * [Indice Vulnhub](writeups/vulnhub/vulnhub_index.md)
