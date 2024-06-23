@@ -2,4 +2,4 @@
 
 ![banner](images/BANNER-ALV-FH.png)
 
-Buenas, soy Álvaro Falcón Hernández
+![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc)
