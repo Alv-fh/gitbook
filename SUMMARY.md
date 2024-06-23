@@ -1,9 +1,11 @@
 # Table of contents
 
+![banner](images/BANNER-ALV-FH.png)
+
 * [Whoami](README.md)
   
   * [Curriculum](writeups/curriculum.md)
-* ![banner](images/BANNER-ALV-FH.png)
+
 
 
 
