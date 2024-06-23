@@ -1,6 +1,6 @@
 # Table of contents
 
-![banner](images/BANNER-ALV-FH.png)
+
 
 * [Whoami](README.md)
   
