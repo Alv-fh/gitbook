@@ -11,6 +11,7 @@
 
 * [WriteUps](writeups/WriteUps.md)
   * [DockerLabs](writeups/DockerLabs/dockerlabs_index.md)
+    * [HiddenCat](writeups/DockerLabs/HiddenCat.md)
     * [Escolares](writeups/DockerLabs/Escolares.md)
     * [FirstHacking](writeups/DockerLabs/Firsthacking.md)
     * [Hidden](writeups/DockerLabs/Hidden.md)
