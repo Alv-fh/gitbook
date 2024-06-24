@@ -21,7 +21,13 @@
     * [Upload](writeups/DockerLabs/Upload.md)
     * [Vacaciones](writeups/DockerLabs/Vacaciones.md)
   * [Vulnyx](writeups/Vulnyx/vulnyx_index.md)
-
+    * [Basic](writeups/Vulnyx/Basic.md)
+    * [Fire](writeups/Vulnyx/Fire.md)
+    * [Infected](writeups/Vulnyx/Infected.md)
+    * [Load](writeups/Vulnyx/Load.md)
+    * [Plex](writeups/Vulnyx/Plex.md)
+    * 
+    * 
   * [Vulnhub](writeups/vulnhub/vulnhub_index.md)
     * [Fristileaks](writeups/vulnhub/fristileaks.md)
   
