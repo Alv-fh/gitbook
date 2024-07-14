@@ -2,13 +2,8 @@
 
 
 
-* [Whoami](README.md)
-  
+* [Whoami](README.md) 
   * [Curriculum](writeups/curriculum.md)
-
-
-
-
 * [WriteUps](writeups/WriteUps.md)
   
   * [DockerLabs](writeups/DockerLabs/dockerlabs_index.md)
@@ -32,4 +27,3 @@
     * 
   * [Vulnhub](writeups/vulnhub/vulnhub_index.md)
     * [Fristileaks](writeups/vulnhub/fristileaks.md)
-  

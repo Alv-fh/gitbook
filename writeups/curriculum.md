@@ -8,16 +8,6 @@ Soy un chico que le ha encantado desde pequeño la informática y descubrí que 
 
 ### ¿Qué domino?
 
-| Sistemas Operativos                                  | Kali Linux, Windows,           |
-|                                                      |                                |
-|                                                      |                                | 
-|                                                      |                                |
-
-
-
-
-
-
 
 ### Títulos Académicos y certificaciones
 
