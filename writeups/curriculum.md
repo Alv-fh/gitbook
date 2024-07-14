@@ -9,9 +9,9 @@ Soy un chico que le ha encantado desde pequeño la informática y descubrí que 
 ### ¿Qué domino?
 
 | Sistemas Operativos                                  | Kali Linux, Windows,           |
-|------------------------------------------------------|--------------------------------|
-| Grado Medio Sistemas Microinformáticos y Redes       | No hay certificación           | 
-| Connect and Protect: Networks and Network Security   | ![networks](/images/image.png) |
+|                                                      |                                |
+|                                                      |                                | 
+|                                                      |                                |
 
 
 
