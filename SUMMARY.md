@@ -7,6 +7,7 @@
 * [WriteUps](writeups/WriteUps.md)
   
   * [DockerLabs](writeups/DockerLabs/dockerlabs_index.md)
+    * [Amor](writeups/DockerLabs/Amor.md)
     * [NodeClimb](writeups/DockerLabs/NodeClimb.md)
     * [HiddenCat](writeups/DockerLabs/HiddenCat.md)
     * [Escolares](writeups/DockerLabs/Escolares.md)
