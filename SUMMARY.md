@@ -26,4 +26,4 @@
     * [Plex](writeups/Vulnyx/Plex.md)
   * [Vulnhub](writeups/vulnhub/vulnhub_index.md)
     * [Fristileaks](writeups/vulnhub/fristileaks.md)
-    * [Symfonos 1](writeups/Vulnhub/Symfonos1.md)
+    * [Symfonos1](writeups/vulnhub/Symfonos1.md)
