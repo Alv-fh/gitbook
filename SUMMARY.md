@@ -24,7 +24,6 @@
     * [Infected](writeups/Vulnyx/Infected.md)
     * [Load](writeups/Vulnyx/Load.md)
     * [Plex](writeups/Vulnyx/Plex.md)
-    * 
-    * 
   * [Vulnhub](writeups/vulnhub/vulnhub_index.md)
     * [Fristileaks](writeups/vulnhub/fristileaks.md)
+    * [Symfonos 1](writeups/Vulnhub/Symfonos1.md)
