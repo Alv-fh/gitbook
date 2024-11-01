@@ -1,19 +1,15 @@
 ## Currículum
 
-[CV](/images/CV-alvaro.jpg)
-
-### Álvaro Falcón Hernández
+![CV](/images/CV-alvaro.jpg)
 
 ### ¿Qué domino?
 
 | Category               | Tools                                         |
 |-------------------------|------------------------------------------------|
-| **Operating Systems**    | <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a> |
-| **Programming Languages**| <img src="https://skillicons.dev/icons?i=bash,python,md&perline=12" /></a> |
-| **CMS**                  | <img src="https://skillicons.dev/icons?i=wordpress,joomla&perline=12" /></a> |
+| **Operating Systems**    | <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian,mint&perline=12" /></a> |
+| **Programming Languages**| <img src="https://skillicons.dev/icons?i=bash,python,html,css,md&perline=12" /></a> |
 | **DevOps Tools**         | <img src="https://skillicons.dev/icons?i=docker&perline=12" /></a> |
-| **Text Editors**         | <img src="https://skillicons.dev/icons?i=vim,powershell&perline=12" /></a> |
-| **Version Control**      | <img src="https://skillicons.dev/icons?i=git,&perline=12" /></a> |
+| **Version Control**      | <img src="https://skillicons.dev/icons?i=git,github&perline=12" /></a> |
 | **Notes Database**       | <img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" /></a> |
 
 ### Títulos Académicos y certificaciones
