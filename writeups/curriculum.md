@@ -1,6 +1,6 @@
 ## Currículum
 
-[imagen](images/CV-alvaro.jpg)
+[CV](/images/CV-alvaro.jpg)
 
 ### Álvaro Falcón Hernández
 
