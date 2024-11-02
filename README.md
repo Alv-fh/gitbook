@@ -2,7 +2,7 @@
 
 ![banner_actualizadp_alv-fh](https://github.com/user-attachments/assets/01dc46f4-bead-4056-a547-b2c7e22f5998)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Buenas!👋, soy Álvaro o también conocido como *Alv-fh*.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 10px></picture> Buenas!👋, soy Álvaro o también conocido como *Alv-fh*.
  Este es mi Blog en donde iré subiendo todas mis certificaciones nuevas, estudios académicos y todos mis writeups. Además estarán todos los conocimientos actuales.
 
 Sobre mí:
